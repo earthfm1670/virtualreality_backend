@@ -1,5 +1,8 @@
 **Virtualreality Backend Assignment**
 
+![ERD Diagram](https://raw.githubusercontent.com/earthfm1670/virtualreality_backend/refs/heads/main/Backend%20Test%20ERD.drawio.png)
+
+
 Follow these steps to set up and run the project locally.
 
 1. Clone the repository onto your local machine
